@@ -1,3 +1,9 @@
 puppydata: ...
 hebbslamdata: ...
 smpnativedata: ...
+
+
+# 3rd party
+sentiws
+shakespeare
+
